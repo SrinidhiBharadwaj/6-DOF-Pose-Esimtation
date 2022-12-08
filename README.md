@@ -9,3 +9,4 @@ How to run:
 - This saved the segmentation images in the same folder with the name "image-name_unet.png"
 - Run "pose_estimation.py" script to generate the poses
   - This script also generates bounding boxes in "bboxes" folder.
+  - "get_pose_new" method in this script is the core function that estimates poses.
